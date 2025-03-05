@@ -1,5 +1,5 @@
-import biblioteca.Biblioteca;
-import biblioteca.Libro;
+package biblioteca;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
