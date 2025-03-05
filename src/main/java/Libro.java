@@ -3,13 +3,17 @@ package biblioteca;
 /**
  * Representa un libro con sus getter y setters
  *
- * @author Hector Gonzalez Mendez
+ * @author Hector Gonzalez Mendez - https://github.com/1slander/ED_Practico2eval
  * @version 1.0
  */
 
 public class Libro {
     /**
+     * String titulo - titulo del libro
      *
+     * String auto - autor del libro
+     *
+     * int anioPublicacion - año de publicacion
      */
     // TODO: Documentar estos atributos
     private String titulo;
